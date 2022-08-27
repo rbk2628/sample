@@ -4,4 +4,6 @@ pomegornate
 grapes
 cherry
 peach
+pineapple
+strawberry
 
