@@ -1,3 +1,4 @@
 samsung
 xiaomi
 realme
+infinix
