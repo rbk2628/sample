@@ -1,3 +1,4 @@
 tomato
 carrot
 potato
+cabbage
