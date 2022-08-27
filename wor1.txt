@@ -2,3 +2,5 @@ apple
 mango
 pomegornate
 grapes
+cherry
+peach
